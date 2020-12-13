@@ -2855,6 +2855,28 @@ ecc-jsbn@~0.1.1:
     jsbn "~0.1.0"
     safer-buffer "^2.1.0"
 
+echarts-amap@1.0.0-rc.6:
+  version "1.0.0-rc.6"
+  resolved "https://registry.yarnpkg.com/echarts-amap/-/echarts-amap-1.0.0-rc.6.tgz#5782a74daee52ed44ce3f8f62577561783f09e16"
+  integrity sha1-V4KnTa7lLtRM4/j2JXdWF4PwnhY=
+
+echarts-liquidfill@^2.0.2:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/echarts-liquidfill/-/echarts-liquidfill-2.0.6.tgz#0668dc61d87a6262003090bd32c55aa8108c252e"
+  integrity sha512-p+AH0O9/BtwXMQQyhjJbMZo+GwRAgWG/DCyK5r27PQzpS0UWrgXu57MyEFc0A8Ub3sRuqEu08BuxwHICBkSWSQ==
+
+echarts-wordcloud@^1.1.3:
+  version "1.1.3"
+  resolved "https://registry.yarnpkg.com/echarts-wordcloud/-/echarts-wordcloud-1.1.3.tgz#07b140c8ba76b19c317b43c310f3d5dc99289ff2"
+  integrity sha512-Et8D5xEAoYkidmHun+hEH+2lF9dhCt6D0JJ390vlr2r/1zwhhZAbcL01CEvG93QcMcJpSvSPK8vRiGkTbMHRxg==
+
+echarts@^4.1.0:
+  version "4.9.0"
+  resolved "https://registry.yarnpkg.com/echarts/-/echarts-4.9.0.tgz#a9b9baa03f03a2a731e6340c55befb57a9e1347d"
+  integrity sha512-+ugizgtJ+KmsJyyDPxaw2Br5FqzuBnyOWwcxPKO6y0gc5caYcfnEUIlNStx02necw8jmKmTafmpHhGo4XDtEIA==
+  dependencies:
+    zrender "4.3.2"
+
 editorconfig@^0.15.2:
   version "0.15.2"
   resolved "http://registry.npm.taobao.org/editorconfig/download/editorconfig-0.15.2.tgz#047be983abb9ab3c2eefe5199cb2b7c5689f0702"
@@ -4451,9 +4473,9 @@ inherits@2.0.1:
   integrity sha1-sX0I0ya0Qj5Wjv9xn5GwscvfafE=
 
 ini@^1.3.4, ini@~1.3.0:
-  version "1.3.5"
-  resolved "http://registry.npm.taobao.org/ini/download/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha1-7uJfVtscnsYIXgwid4CD9Zar+Sc=
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 inline-manifest-webpack-plugin@^3.0.1:
   version "3.0.1"
@@ -6412,6 +6434,11 @@ number-is-nan@^1.0.0:
   version "1.0.1"
   resolved "http://registry.npm.taobao.org/number-is-nan/download/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
+
+numerify@1.2.9:
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/numerify/-/numerify-1.2.9.tgz#af4696bb1d57f8d3970a615d8b0cd53d932bd559"
+  integrity sha512-X4QzQiytV5ZN3TVLhzbtFzjTarUNnaa1pgNDFqt7u7Nqhxe7FvY2eYrGt4WYHlYXDqgtfC/n/a5nJ2y0LijV8w==
 
 nwsapi@^2.0.7:
   version "2.0.9"
@@ -9121,6 +9148,11 @@ utila@^0.4.0, utila@~0.4:
   resolved "http://registry.npm.taobao.org/utila/download/utila-0.4.0.tgz#8a16a05d445657a3aea5eecc5b12a4fa5379772c"
   integrity sha1-ihagXURWV6Oupe7MWxKk+lN5dyw=
 
+utils-lite@0.1.10:
+  version "0.1.10"
+  resolved "https://registry.yarnpkg.com/utils-lite/-/utils-lite-0.1.10.tgz#d2908c0482e23c31e6b082558540e7134ffad7d7"
+  integrity sha512-jlHvdtI8MyWURF/3u+ufIjf1Cs5WjN6WZl9qO8dEkZsVjaI7X5YMUhaCFzkvB69ljt6fo4Dd7V/Oj2NJOFDFOQ==
+
 utils-merge@1.0.1:
   version "1.0.1"
   resolved "http://registry.npm.taobao.org/utils-merge/download/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
@@ -9130,6 +9162,17 @@ uuid@^3.0.0, uuid@^3.0.1, uuid@^3.3.2:
   version "3.3.2"
   resolved "http://registry.npm.taobao.org/uuid/download/uuid-3.3.2.tgz#1b4af4955eb3077c501c23872fc6513811587131"
   integrity sha1-G0r0lV6zB3xQHCOHL8ZROBFYcTE=
+
+v-charts@^1.19.0:
+  version "1.19.0"
+  resolved "https://registry.yarnpkg.com/v-charts/-/v-charts-1.19.0.tgz#07b701800b159bd514264ffc8bf12b0405142da3"
+  integrity sha512-vm2HBUmxAsXK0ivwce9LytcpqrItDA5JSPLYVxZXtiuoyhcn80XX1/3dPJd/1GqG1OYv3jfBo1s9ra4q8GowqA==
+  dependencies:
+    echarts-amap "1.0.0-rc.6"
+    echarts-liquidfill "^2.0.2"
+    echarts-wordcloud "^1.1.3"
+    numerify "1.2.9"
+    utils-lite "0.1.10"
 
 v-clipboard@^2.0.1:
   version "2.2.1"
@@ -9187,6 +9230,11 @@ vue-awesome-swiper@^3.1.3:
   dependencies:
     object-assign "^4.1.1"
     swiper "^4.0.7"
+
+vue-directive-touch@^1.0.26:
+  version "1.0.28"
+  resolved "https://registry.yarnpkg.com/vue-directive-touch/-/vue-directive-touch-1.0.28.tgz#973e48344ed30d0a7fcbc8e5ce93643293c81431"
+  integrity sha512-3KhlMgzd3aqO9LF4Ubo29jAPGRzYEw0mJXzMGD7DATmqGsXlXu/AzkzkZXoiyaUxaCP2obtldArrp52L59OF4w==
 
 vue-eslint-parser@^2.0.3:
   version "2.0.3"
@@ -9293,6 +9341,11 @@ vue-template-es2015-compiler@^1.5.3, vue-template-es2015-compiler@^1.6.0:
   version "1.6.0"
   resolved "http://registry.npm.taobao.org/vue-template-es2015-compiler/download/vue-template-es2015-compiler-1.6.0.tgz#dc42697133302ce3017524356a6c61b7b69b4a18"
   integrity sha1-3EJpcTMwLOMBdSQ1amxht7abShg=
+
+vue2-touch-events@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/vue2-touch-events/-/vue2-touch-events-1.1.2.tgz#e900eb22ae067c3915976e1d38454be08cec0a7d"
+  integrity sha512-xY5y76R9Rrhjs1ezrJE+GPI5C38JGj1Bz2aB2KAF+COwdVuW9ghaLj77JjOapVUXqqBL36ZObsZ68LD3DZzjmA==
 
 vue@^2.2.6, vue@^2.3.3, vue@^2.5.17:
   version "2.5.21"
@@ -9818,3 +9871,8 @@ yauzl@2.4.1:
   integrity sha1-lSj0QtqxsihOWLQ3m7GU4i4MQAU=
   dependencies:
     fd-slicer "~1.0.1"
+
+zrender@4.3.2:
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/zrender/-/zrender-4.3.2.tgz#ec7432f9415c82c73584b6b7b8c47e1b016209c6"
+  integrity sha512-bIusJLS8c4DkIcdiK+s13HiQ/zjQQVgpNohtd8d94Y2DnJqgM1yjh/jpDb8DoL6hd7r8Awagw8e3qK/oLaWr3g==
